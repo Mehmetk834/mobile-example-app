@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+
+    <color name="beyaz">#FFFFFFFF</color>
+    <color name="siyah">#FF000000</color>
+    <color name="ekran_arka_plani">#F4F6F9</color>
+    <color name="kart_arka_plani">#FFFFFF</color>
+    <color name="kayit_butonu_rengi">#00695C</color>
+    <color name="giris_butonu_rengi">#1976D2</color>
+    <color name="sifremi_unuttum_rengi">#1976D2</color>
+</resources>

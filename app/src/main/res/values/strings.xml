@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MobilProg_Odev1</string>
+    <string name="ipucu_ad_soyad">Ad Soyad</string>
+    <string name="ipucu_eposta">E-posta Adresi</string>
+    <string name="ipucu_yas">Yaş</string>
+    <string name="buton_kayit_ol">Kayıt Ol</string>
+    <string name="ipucu_kullanici_adi">Kullanıcı Adı</string>
+    <string name="ipucu_sifre">Şifre</string>
+    <string name="buton_giris_yap">Giriş Yap</string>
+    <string name="metin_sifremi_unuttum">ŞİFREMİ UNUTTUM?</string>
+</resources>
